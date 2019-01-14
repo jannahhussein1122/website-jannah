@@ -1,0 +1,27 @@
+body {
+background-color:purple;
+}
+h1 {
+text-align:center;
+color:white;
+}
+table, th, td {
+border:1px solid white;
+padding:15px;
+}
+table{
+width:100%;
+}
+th {
+background-color:pink;
+color:white;
+}
+footer{
+color:white;
+text-align:center;
+background-color:pink;
+}
+p{
+border:dotted;background-color:pink;
+font-size:1.200em;
+}
